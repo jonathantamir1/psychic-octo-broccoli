@@ -1,7 +1,7 @@
 import tkinter as tk
 from PIL import Image, ImageTk, ImageSequence
 
-cat_path = "dancing_cat.gif"
+cat_path = "cat-piano.gif"
 
 root = tk.Tk()
 root.overrideredirect(True)
