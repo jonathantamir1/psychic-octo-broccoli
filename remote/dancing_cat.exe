@@ -1,0 +1,2 @@
+pyinstaller --onefile --noconsole --add-data "cat-piano.gif;." dancing_cat.py
+
