@@ -1,2 +1,4 @@
 @echo off
-start "" dancing_cat.exe
+cd /d "%~dp0"
+python dancing_cat.py
+
